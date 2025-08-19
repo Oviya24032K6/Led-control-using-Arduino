@@ -1,8 +1,8 @@
 ### NAME : OVIYA P
 ### REG.NO : 212223110033
-### DATE : 19/08/2025
 
-#  EX-NO : 1    Led-control-using-Arduino
+
+#  EX-NO : 1    Led control using Arduino
 
 ## AIM
 To design and implement a system for LED control using an Arduino microcontroller and a push button.
@@ -99,4 +99,4 @@ void loop() {
 
 
 ## RESULT:
-Thus, too design and implement a system for LED control using an Arduino microcontroller and a push button has completed and verified successfully.
+Thus, to design and implement a system for LED control using an Arduino microcontroller and a push button has completed and verified successfully.
