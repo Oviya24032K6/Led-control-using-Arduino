@@ -61,16 +61,15 @@ Security System Indicator </br>
 Emergency Signaling System </br>
 Weighing Machines </br>
 
-## CIRCUIT DIAGRAM
+## CIRCUIT DIAGRAM:
+<img width="868" height="608" alt="image" src="https://github.com/user-attachments/assets/8e2f6351-f0bb-4841-aee2-7428191d24f1" />
+
 
 ## PROGRAM:
 ```
 void setup() {
   pinMode(10,OUTPUT);
   pinMode(4,INPUT);
-  
-  // put your setup code here, to run once:
-
 }
 
 void loop() {
@@ -86,7 +85,6 @@ void loop() {
   {
     digitalWrite(10,LOW);
   }
-  // put your main code here, to run repeatedly:
 
 }
 ```
