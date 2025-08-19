@@ -1,3 +1,6 @@
+### NAME : OVIYA P
+### REG.NO : 212223110033
+### DATE : 19/08/2025
 # Led-control-using-Arduino
 
 ## AIM
@@ -59,8 +62,41 @@ Weighing Machines </br>
 
 ## CIRCUIT DIAGRAM
 
-## PROGRAM
+## PROGRAM:
+```
+void setup() {
+  pinMode(10,OUTPUT);
+  pinMode(4,INPUT);
+  
+  // put your setup code here, to run once:
 
-## OUTPUT
+}
 
-## RESULT
+void loop() {
+  int button_status=digitalRead(4);
+  if (button_status==HIGH)
+  {
+    digitalWrite(10,HIGH);
+    delay(100);
+    digitalWrite(10,LOW);
+    delay(100);
+  }
+  else
+  {
+    digitalWrite(10,LOW);
+  }
+  // put your main code here, to run repeatedly:
+
+}
+```
+
+
+## OUTPUT:
+<img width="1415" height="857" alt="image" src="https://github.com/user-attachments/assets/5aff3696-74fa-468e-9dba-2826960624b3" />
+
+<img width="1919" height="1079" alt="image" src="https://github.com/user-attachments/assets/d578eac1-ddda-40c0-b613-c677dec98288" />
+
+
+
+## RESULT:
+Thus, too design and implement a system for LED control using an Arduino microcontroller and a push button has completed and verified successfully.
