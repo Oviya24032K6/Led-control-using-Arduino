@@ -93,7 +93,8 @@ void loop() {
 
 
 ## OUTPUT:
-<img width="1415" height="857" alt="image" src="https://github.com/user-attachments/assets/5aff3696-74fa-468e-9dba-2826960624b3" />
+
+<img width="1251" height="858" alt="image" src="https://github.com/user-attachments/assets/9fdd10a7-f5b9-440b-a2fb-380734709230" />
 
 <img width="1249" height="852" alt="image" src="https://github.com/user-attachments/assets/d8e78a5a-92d7-44a0-90cf-f7c50bf775b1" />
 
